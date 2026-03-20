@@ -10,3 +10,5 @@ marshmallow==3.21.3
 Flask-Marshmallow==1.2.1
 marshmallow-sqlalchemy==1.1.0
 pytz==2024.1
+gunicorn==21.2.0
+
